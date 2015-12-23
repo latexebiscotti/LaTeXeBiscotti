@@ -1,30 +1,44 @@
 \select@language {italian}
 \select@language {italian}
-\contentsline {section}{\numberline {1}Introduzione}{3}{section.1}
-\contentsline {subsection}{\numberline {1.1}Scopo del documento}{3}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Scopo del Prodotto}{3}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Glossario}{3}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Riferimenti}{3}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}Normativi}{3}{subsubsection.1.4.1}
-\contentsline {subsubsection}{\numberline {1.4.2}Informativi}{3}{subsubsection.1.4.2}
-\contentsline {subsection}{\numberline {1.5}Ciclo di vita}{4}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Scadenze}{4}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}Ruoli}{4}{subsection.1.7}
-\contentsline {subsubsection}{\numberline {1.7.1}Definizione dei ruoli}{4}{subsubsection.1.7.1}
-\contentsline {section}{\numberline {2}Pianificazione}{5}{section.2}
-\contentsline {subsection}{\numberline {2.1}Analisi}{5}{subsection.2.1}
-\contentsline {section}{\numberline {3}Suddivisione del lavoro}{6}{section.3}
-\contentsline {subsection}{\numberline {3.1}Analisi}{6}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Totale}{6}{subsection.3.2}
-\contentsline {section}{\numberline {4}Prospetto economico}{7}{section.4}
-\contentsline {subsection}{\numberline {4.1}Analisi}{7}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Totale}{7}{subsection.4.2}
-\contentsline {section}{\numberline {5}Analisi dei rischi}{8}{section.5}
-\contentsline {subsection}{\numberline {5.1}Rischi tecnologici}{8}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Rischi sul personale}{8}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Rischi organizzativi}{8}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Rischi sugli strumenti software}{8}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Rischi sugli strumenti hardware}{8}{subsection.5.5}
-\contentsline {subsection}{\numberline {5.6}Rischi sui requisiti}{8}{subsection.5.6}
-\contentsline {subsection}{\numberline {5.7}Rischi sulle stime}{8}{subsection.5.7}
-\contentsline {section}{\numberline {A}Organigramma}{9}{appendix.Alph1}
+\contentsline {section}{\numberline {1}Introduzione}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Scopo del documento}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Scopo del Prodotto}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Glossario}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Riferimenti}{4}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Normativi}{4}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Informativi}{4}{subsubsection.1.4.2}
+\contentsline {subsection}{\numberline {1.5}Ciclo di vita}{5}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Scadenze}{5}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Ruoli}{5}{subsection.1.7}
+\contentsline {section}{\numberline {2}Pianificazione}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Analisi}{6}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Gantt attivit\IeC {\`a}}{7}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}WBS attivit\IeC {\`a}}{7}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Ripartizione ore}{7}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Seconda Fase}{7}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Gantt attivit\IeC {\`a}}{7}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}WBS attivit\IeC {\`a}}{7}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Ripartizione ore}{7}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Terza Fase}{7}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Gantt attivit\IeC {\`a}}{7}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}WBS attivit\IeC {\`a}}{7}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Ripartizione ore}{7}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Quarta Fase}{7}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Gantt attivit\IeC {\`a}}{7}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}WBS attivit\IeC {\`a}}{7}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Ripartizione ore}{7}{subsubsection.2.4.3}
+\contentsline {section}{\numberline {3}Suddivisione del lavoro}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Analisi}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Totale}{8}{subsection.3.2}
+\contentsline {section}{\numberline {4}Prospetto economico}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}Analisi}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Totale}{9}{subsection.4.2}
+\contentsline {section}{\numberline {5}Analisi dei rischi}{10}{section.5}
+\contentsline {subsection}{\numberline {5.1}Rischi tecnologici}{10}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Rischi sul personale}{10}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Rischi organizzativi}{10}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Rischi sugli strumenti software}{10}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Rischi sugli strumenti hardware}{10}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Rischi sui requisiti}{10}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Rischi sulle stime}{10}{subsection.5.7}
+\contentsline {section}{\numberline {A}Organigramma}{11}{appendix.Alph1}

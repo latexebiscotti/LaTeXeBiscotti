@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  23 DEC 2015 15:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  23 DEC 2015 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1523,7 +1523,7 @@ our preamble.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../../modello/cookie.png, id=119, 224.84pt x 225.84375pt>
+<../../modello/cookie.png, id=175, 224.84pt x 225.84375pt>
 File: ../../modello/cookie.png Graphic file (type png)
 
 <use ../../modello/cookie.png>
@@ -1574,12 +1574,17 @@ Underfull \hbox (badness 1472) in paragraph at lines 8--8
  []
 
 
-Overfull \hbox (1.63208pt too wide) in alignment at lines 4--10
+Underfull \hbox (badness 1472) in paragraph at lines 9--9
+[]| \T1/lmr/m/n/10 Fe-de-ri-ca 
+ []
+
+
+Overfull \hbox (1.63208pt too wide) in alignment at lines 4--11
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 10
+Underfull \vbox (badness 10000) detected at line 11
  []
 
 )
@@ -1609,8 +1614,21 @@ l.12 \clearpage
 \tf@lot=\write6
 \openout6 = `PianoDiProgetto.lot'.
 
+File: ../../modello/cookie.png Graphic file (type png)
 
-(./PianoDiProgetto.lof)
+<use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 16.
+(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (30.0pt): 
+ Make it at least 46.27646pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2
+
+] (./PianoDiProgetto.lof)
 \tf@lof=\write7
 \openout7 = `PianoDiProgetto.lof'.
 
@@ -1625,9 +1643,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2
-
-]
+[3]
 \openout2 = `sezione-introduzione.aux'.
 
  (./sezione-introduzione.tex
@@ -1662,7 +1678,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3
+[4
 
 
 ])
@@ -1677,10 +1693,25 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4]
+[5]
 \openout2 = `sezione-pianificazione.aux'.
 
- (./sezione-pianificazione.tex)
+ (./sezione-pianificazione.tex
+File: ../../modello/cookie.png Graphic file (type png)
+ <use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 27.
+(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (30.0pt): 
+ Make it at least 46.27646pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6
+
+
+])
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
 Package pdftex.def Info: ../../modello/cookie.png used on input line 21.
@@ -1692,10 +1723,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5
-
-
-]
+[7]
 \openout2 = `sezione-suddivisioneDelLavoro.aux'.
 
  (./sezione-suddivisioneDelLavoro.tex)
@@ -1710,7 +1738,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6
+[8
 
 
 ]
@@ -1728,7 +1756,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7
+[9
 
 
 ]
@@ -1746,7 +1774,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8
+[10
 
 
 ]
@@ -1764,7 +1792,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9
+[11
 
 
 ] 
@@ -1777,22 +1805,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
 (./appendice.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 28.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 28.
-
-
-Package rerunfilecheck Warning: File `PianoDiProgetto.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `PianoDiProgetto.out':
-(rerunfilecheck)             Before: C80CEED78CA6939D35EFE1798113BA75;1763
-(rerunfilecheck)             After:  EDA30F109A07B0165A401B8F7DB50D73;1755.
+Package rerunfilecheck Info: File `PianoDiProgetto.out' has not changed.
+(rerunfilecheck)             Checksum: 0DB7648C3E57884ABE8DFDEE40E17A26;2769.
  ) 
 Here is how much of TeX's memory you used:
- 28244 strings out of 495017
- 599237 string characters out of 6181020
- 756755 words of memory out of 5000000
- 30752 multiletter control sequences out of 15000+600000
- 59845 words of font info for 40 fonts, out of 8000000 for 9000
+ 28276 strings out of 495017
+ 599809 string characters out of 6181020
+ 759770 words of memory out of 5000000
+ 30768 multiletter control sequences out of 15000+600000
+ 68387 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  65i,15n,74p,809b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1802,10 +1823,10 @@ m/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 i7.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on PianoDiProgetto.pdf (10 pages, 211544 bytes).
+Output written on PianoDiProgetto.pdf (12 pages, 222251 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 233 compressed objects within 3 object streams
- 39 named destinations out of 1000 (max. 500000)
- 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 342 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 354 words of extra memory for PDF output out of 10000 (max. 10000000)
 
