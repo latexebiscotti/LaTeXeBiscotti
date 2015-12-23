@@ -9,7 +9,8 @@
 \contentsline {subsubsection}{\numberline {1.4.2}Informativi}{3}{subsubsection.1.4.2}
 \contentsline {subsection}{\numberline {1.5}Ciclo di vita}{4}{subsection.1.5}
 \contentsline {subsection}{\numberline {1.6}Scadenze}{4}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}Ruoli e costi}{4}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.7}Ruoli}{4}{subsection.1.7}
+\contentsline {subsubsection}{\numberline {1.7.1}Definizione dei ruoli}{4}{subsubsection.1.7.1}
 \contentsline {section}{\numberline {2}Pianificazione}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Analisi}{5}{subsection.2.1}
 \contentsline {section}{\numberline {3}Suddivisione del lavoro}{6}{section.3}
@@ -26,3 +27,4 @@
 \contentsline {subsection}{\numberline {5.5}Rischi sugli strumenti hardware}{8}{subsection.5.5}
 \contentsline {subsection}{\numberline {5.6}Rischi sui requisiti}{8}{subsection.5.6}
 \contentsline {subsection}{\numberline {5.7}Rischi sulle stime}{8}{subsection.5.7}
+\contentsline {section}{\numberline {A}Organigramma}{9}{appendix.Alph1}
