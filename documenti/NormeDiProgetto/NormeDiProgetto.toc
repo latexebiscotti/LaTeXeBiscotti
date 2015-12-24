@@ -22,7 +22,7 @@
 \contentsline {paragraph}{\numberline {2.2.2.3}Svolgimento Riunione}{8}{paragraph.2.2.2.3}
 \contentsline {subsubsection}{\numberline {2.2.3}Verbale}{8}{subsubsection.2.2.3}
 \contentsline {paragraph}{\numberline {2.2.3.1}Riunione Interna}{8}{paragraph.2.2.3.1}
-\contentsline {paragraph}{\numberline {2.2.3.2}Riunione Esterna}{9}{paragraph.2.2.3.2}
+\contentsline {paragraph}{\numberline {2.2.3.2}Riunione Esterna}{8}{paragraph.2.2.3.2}
 \contentsline {subsection}{\numberline {2.3}Repository e strumenti di condivisione file}{9}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Struttura Repository dei Documenti}{9}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2.3.2}Condivisione dei File}{9}{subsubsection.2.3.2}
@@ -95,6 +95,7 @@
 \contentsline {subsubsection}{\numberline {6.3.2}Verifica}{25}{subsubsection.6.3.2}
 \contentsline {subsubsection}{\numberline {6.3.3}Diagrammi UML}{25}{subsubsection.6.3.3}
 \contentsline {subsubsection}{\numberline {6.3.4}Fogli di Calcolo}{26}{subsubsection.6.3.4}
+\contentsline {subsubsection}{\numberline {6.3.5}Software per le Presentazioni}{26}{subsubsection.6.3.5}
 \contentsline {subsection}{\numberline {6.4}Protocollo per lo Sviluppo dell'Applicazione}{26}{subsection.6.4}
 \contentsline {subsubsection}{\numberline {6.4.1}Creare un Nuovo Progetto}{26}{subsubsection.6.4.1}
 \contentsline {subsubsection}{\numberline {6.4.2}Assegnazione di un Nuovo Compito}{26}{subsubsection.6.4.2}
