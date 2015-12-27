@@ -13,36 +13,48 @@
 \BOOKMARK [3][-]{subsubsection.2.1.1}{Gantt attivit\340}{subsection.2.1}% 13
 \BOOKMARK [3][-]{subsubsection.2.1.2}{WBS attivit\340}{subsection.2.1}% 14
 \BOOKMARK [3][-]{subsubsection.2.1.3}{Ripartizione ore}{subsection.2.1}% 15
-\BOOKMARK [2][-]{subsection.2.2}{Seconda Fase}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.2}{Incremento fase di Analisi}{section.2}% 16
 \BOOKMARK [3][-]{subsubsection.2.2.1}{Gantt attivit\340}{subsection.2.2}% 17
 \BOOKMARK [3][-]{subsubsection.2.2.2}{WBS attivit\340}{subsection.2.2}% 18
 \BOOKMARK [3][-]{subsubsection.2.2.3}{Ripartizione ore}{subsection.2.2}% 19
-\BOOKMARK [2][-]{subsection.2.3}{Terza Fase}{section.2}% 20
+\BOOKMARK [2][-]{subsection.2.3}{Progettazione Architetturale}{section.2}% 20
 \BOOKMARK [3][-]{subsubsection.2.3.1}{Gantt attivit\340}{subsection.2.3}% 21
 \BOOKMARK [3][-]{subsubsection.2.3.2}{WBS attivit\340}{subsection.2.3}% 22
 \BOOKMARK [3][-]{subsubsection.2.3.3}{Ripartizione ore}{subsection.2.3}% 23
-\BOOKMARK [2][-]{subsection.2.4}{Quarta Fase}{section.2}% 24
+\BOOKMARK [2][-]{subsection.2.4}{Progettazione di dettaglio e codifica}{section.2}% 24
 \BOOKMARK [3][-]{subsubsection.2.4.1}{Gantt attivit\340}{subsection.2.4}% 25
 \BOOKMARK [3][-]{subsubsection.2.4.2}{WBS attivit\340}{subsection.2.4}% 26
 \BOOKMARK [3][-]{subsubsection.2.4.3}{Ripartizione ore}{subsection.2.4}% 27
-\BOOKMARK [1][-]{section.3}{Suddivisione del lavoro}{}% 28
-\BOOKMARK [2][-]{subsection.3.1}{Analisi}{section.3}% 29
-\BOOKMARK [2][-]{subsection.3.2}{Totale}{section.3}% 30
-\BOOKMARK [1][-]{section.4}{Prospetto economico}{}% 31
-\BOOKMARK [2][-]{subsection.4.1}{Analisi}{section.4}% 32
-\BOOKMARK [2][-]{subsection.4.2}{Totale}{section.4}% 33
-\BOOKMARK [1][-]{section.5}{Analisi dei rischi}{}% 34
-\BOOKMARK [2][-]{subsection.5.1}{Rischi tecnologici}{section.5}% 35
-\BOOKMARK [2][-]{subsection.5.2}{Rischi sul personale}{section.5}% 36
-\BOOKMARK [2][-]{subsection.5.3}{Rischi organizzativi}{section.5}% 37
-\BOOKMARK [2][-]{subsection.5.4}{Rischi sugli strumenti software}{section.5}% 38
-\BOOKMARK [2][-]{subsection.5.5}{Rischi sugli strumenti hardware}{section.5}% 39
-\BOOKMARK [2][-]{subsection.5.6}{Rischi sui requisiti}{section.5}% 40
-\BOOKMARK [2][-]{subsection.5.7}{Rischi sulle stime}{section.5}% 41
-\BOOKMARK [1][-]{section.6}{Meccanismi di Controllo e Rendicontazione}{}% 42
-\BOOKMARK [1][-]{section.7}{Consuntivo a finire}{}% 43
-\BOOKMARK [1][-]{appendix.Alph1}{Organigramma}{}% 44
-\BOOKMARK [2][-]{subsection.Alph1.1}{Redazione}{appendix.Alph1}% 45
-\BOOKMARK [2][-]{subsection.Alph1.2}{Approvazione}{appendix.Alph1}% 46
-\BOOKMARK [2][-]{subsection.Alph1.3}{Accettazione dei componenti}{appendix.Alph1}% 47
-\BOOKMARK [2][-]{subsection.Alph1.4}{Componenti}{appendix.Alph1}% 48
+\BOOKMARK [2][-]{subsection.2.5}{Verifica e Validazione}{section.2}% 28
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Gantt attivit\340}{subsection.2.5}% 29
+\BOOKMARK [3][-]{subsubsection.2.5.2}{WBS attivit\340}{subsection.2.5}% 30
+\BOOKMARK [3][-]{subsubsection.2.5.3}{Ripartizione ore}{subsection.2.5}% 31
+\BOOKMARK [1][-]{section.3}{Suddivisione del lavoro}{}% 32
+\BOOKMARK [2][-]{subsection.3.1}{Analisi}{section.3}% 33
+\BOOKMARK [2][-]{subsection.3.2}{Incremento fase di Analisi}{section.3}% 34
+\BOOKMARK [2][-]{subsection.3.3}{Progettazione Architetturale}{section.3}% 35
+\BOOKMARK [2][-]{subsection.3.4}{Progettazione di dettaglio e codifica}{section.3}% 36
+\BOOKMARK [2][-]{subsection.3.5}{Verifica e Validazione}{section.3}% 37
+\BOOKMARK [2][-]{subsection.3.6}{Totale}{section.3}% 38
+\BOOKMARK [1][-]{section.4}{Prospetto economico}{}% 39
+\BOOKMARK [2][-]{subsection.4.1}{Analisi}{section.4}% 40
+\BOOKMARK [2][-]{subsection.4.2}{Incremento fase di Analisi}{section.4}% 41
+\BOOKMARK [2][-]{subsection.4.3}{Progettazione Architetturale}{section.4}% 42
+\BOOKMARK [2][-]{subsection.4.4}{Progettazione di dettaglio e codifica}{section.4}% 43
+\BOOKMARK [2][-]{subsection.4.5}{Verifica e Validazione}{section.4}% 44
+\BOOKMARK [2][-]{subsection.4.6}{Totale}{section.4}% 45
+\BOOKMARK [1][-]{section.5}{Analisi dei rischi}{}% 46
+\BOOKMARK [2][-]{subsection.5.1}{Rischi tecnologici}{section.5}% 47
+\BOOKMARK [2][-]{subsection.5.2}{Rischi sul personale}{section.5}% 48
+\BOOKMARK [2][-]{subsection.5.3}{Rischi organizzativi}{section.5}% 49
+\BOOKMARK [2][-]{subsection.5.4}{Rischi sugli strumenti software}{section.5}% 50
+\BOOKMARK [2][-]{subsection.5.5}{Rischi sugli strumenti hardware}{section.5}% 51
+\BOOKMARK [2][-]{subsection.5.6}{Rischi sui requisiti}{section.5}% 52
+\BOOKMARK [2][-]{subsection.5.7}{Rischi sulle stime}{section.5}% 53
+\BOOKMARK [1][-]{section.6}{Meccanismi di Controllo e Rendicontazione}{}% 54
+\BOOKMARK [1][-]{section.7}{Consuntivo a finire}{}% 55
+\BOOKMARK [1][-]{appendix.Alph1}{Organigramma}{}% 56
+\BOOKMARK [2][-]{subsection.Alph1.1}{Redazione}{appendix.Alph1}% 57
+\BOOKMARK [2][-]{subsection.Alph1.2}{Approvazione}{appendix.Alph1}% 58
+\BOOKMARK [2][-]{subsection.Alph1.3}{Accettazione dei componenti}{appendix.Alph1}% 59
+\BOOKMARK [2][-]{subsection.Alph1.4}{Componenti}{appendix.Alph1}% 60
