@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  27 DEC 2015 14:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  27 DEC 2015 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1777,12 +1777,12 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 \openout2 = `sezione-suddivisioneDelLavoro.aux'.
 
  (./sezione-suddivisioneDelLavoro.tex
-<img_ore/oreAnalisi.png, id=396, 727.71875pt x 336.25626pt>
+<img_ore/oreAnalisi.png, id=396, 727.71875pt x 333.245pt>
 File: img_ore/oreAnalisi.png Graphic file (type png)
 
 <use img_ore/oreAnalisi.png>
 Package pdftex.def Info: img_ore/oreAnalisi.png used on input line 93.
-(pdftex.def)             Requested size: 727.71696pt x 336.25543pt.
+(pdftex.def)             Requested size: 727.71696pt x 333.24417pt.
 
 Overfull \hbox (18.38094pt too wide) in paragraph at lines 93--94
  [][] 
@@ -1819,20 +1819,20 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 \openout2 = `sezione-prospettoEconomico.aux'.
 
  (./sezione-prospettoEconomico.tex
-<img_peconomico/oreAnalisi.png, id=407, 571.13374pt x 338.26375pt>
+<img_peconomico/oreAnalisi.png, id=407, 574.145pt x 342.27875pt>
 File: img_peconomico/oreAnalisi.png Graphic file (type png)
 
 <use img_peconomico/oreAnalisi.png>
 Package pdftex.def Info: img_peconomico/oreAnalisi.png used on input line 35.
-(pdftex.def)             Requested size: 571.13235pt x 338.26291pt.
+(pdftex.def)             Requested size: 574.1436pt x 342.2779pt.
 
-<img_peconomico/costiAnalisi.png, id=408, 577.15625pt x 339.2675pt>
+<img_peconomico/costiAnalisi.png, id=408, 573.14125pt x 335.2525pt>
 File: img_peconomico/costiAnalisi.png Graphic file (type png)
 
 <use img_peconomico/costiAnalisi.png>
 Package pdftex.def Info: img_peconomico/costiAnalisi.png used on input line 41.
 
-(pdftex.def)             Requested size: 577.15483pt x 339.26666pt.
+(pdftex.def)             Requested size: 573.13985pt x 335.25168pt.
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
 Package pdftex.def Info: ../../modello/cookie.png used on input line 44.
@@ -1961,7 +1961,7 @@ m/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 i7.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on PianoDiProgetto.pdf (18 pages, 282919 bytes).
+Output written on PianoDiProgetto.pdf (18 pages, 283803 bytes).
 PDF statistics:
  493 PDF objects out of 1000 (max. 8388607)
  455 compressed objects within 5 object streams
