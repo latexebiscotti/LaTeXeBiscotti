@@ -13,50 +13,50 @@
 \contentsline {section}{\numberline {2}Pianificazione}{6}{section.2}
 \contentsline {subsection}{\numberline {2.1}Analisi}{6}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Gantt attivit\IeC {\`a}}{7}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}WBS attivit\IeC {\`a}}{7}{subsubsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.3}Ripartizione ore}{7}{subsubsection.2.1.3}
-\contentsline {subsection}{\numberline {2.2}Incremento fase di Analisi}{9}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Gantt attivit\IeC {\`a}}{9}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}WBS attivit\IeC {\`a}}{9}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Ripartizione ore}{9}{subsubsection.2.2.3}
-\contentsline {subsection}{\numberline {2.3}Progettazione Architetturale}{9}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Gantt attivit\IeC {\`a}}{9}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}WBS attivit\IeC {\`a}}{9}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3}Ripartizione ore}{9}{subsubsection.2.3.3}
-\contentsline {subsection}{\numberline {2.4}Progettazione di dettaglio e codifica}{9}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2.4.1}Gantt attivit\IeC {\`a}}{9}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2.4.2}WBS attivit\IeC {\`a}}{9}{subsubsection.2.4.2}
-\contentsline {subsubsection}{\numberline {2.4.3}Ripartizione ore}{9}{subsubsection.2.4.3}
-\contentsline {subsection}{\numberline {2.5}Verifica e Validazione}{9}{subsection.2.5}
-\contentsline {subsubsection}{\numberline {2.5.1}Gantt attivit\IeC {\`a}}{9}{subsubsection.2.5.1}
-\contentsline {subsubsection}{\numberline {2.5.2}WBS attivit\IeC {\`a}}{9}{subsubsection.2.5.2}
-\contentsline {subsubsection}{\numberline {2.5.3}Ripartizione ore}{9}{subsubsection.2.5.3}
-\contentsline {section}{\numberline {3}Suddivisione del lavoro}{10}{section.3}
-\contentsline {subsection}{\numberline {3.1}Analisi}{10}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Incremento fase di Analisi}{11}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Progettazione Architetturale}{11}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Progettazione di dettaglio e codifica}{11}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Verifica e Validazione}{11}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Totale}{11}{subsection.3.6}
-\contentsline {section}{\numberline {4}Prospetto economico}{12}{section.4}
-\contentsline {subsection}{\numberline {4.1}Analisi}{12}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Incremento fase di Analisi}{13}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Progettazione Architetturale}{13}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Progettazione di dettaglio e codifica}{13}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Verifica e Validazione}{13}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Totale}{13}{subsection.4.6}
-\contentsline {section}{\numberline {5}Analisi dei rischi}{14}{section.5}
-\contentsline {subsection}{\numberline {5.1}Rischi tecnologici}{14}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Rischi sul personale}{14}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Rischi organizzativi}{14}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Rischi sugli strumenti software}{14}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Rischi sugli strumenti hardware}{14}{subsection.5.5}
-\contentsline {subsection}{\numberline {5.6}Rischi sui requisiti}{14}{subsection.5.6}
-\contentsline {subsection}{\numberline {5.7}Rischi sulle stime}{14}{subsection.5.7}
-\contentsline {section}{\numberline {6}Meccanismi di Controllo e Rendicontazione}{15}{section.6}
-\contentsline {section}{\numberline {7}Consuntivo a finire}{16}{section.7}
-\contentsline {section}{\numberline {A}Organigramma}{17}{appendix.Alph1}
-\contentsline {subsection}{\numberline {A.1}Redazione}{17}{subsection.Alph1.1}
-\contentsline {subsection}{\numberline {A.2}Approvazione}{17}{subsection.Alph1.2}
-\contentsline {subsection}{\numberline {A.3}Accettazione dei componenti}{17}{subsection.Alph1.3}
-\contentsline {subsection}{\numberline {A.4}Componenti}{17}{subsection.Alph1.4}
+\contentsline {subsubsection}{\numberline {2.1.2}WBS attivit\IeC {\`a}}{8}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Ripartizione ore}{8}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Incremento fase di Analisi}{10}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Gantt attivit\IeC {\`a}}{10}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}WBS attivit\IeC {\`a}}{10}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Ripartizione ore}{10}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Progettazione Architetturale}{10}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Gantt attivit\IeC {\`a}}{10}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}WBS attivit\IeC {\`a}}{10}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Ripartizione ore}{10}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Progettazione di dettaglio e codifica}{10}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Gantt attivit\IeC {\`a}}{10}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}WBS attivit\IeC {\`a}}{10}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Ripartizione ore}{10}{subsubsection.2.4.3}
+\contentsline {subsection}{\numberline {2.5}Verifica e Validazione}{10}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Gantt attivit\IeC {\`a}}{10}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}WBS attivit\IeC {\`a}}{10}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Ripartizione ore}{10}{subsubsection.2.5.3}
+\contentsline {section}{\numberline {3}Suddivisione del lavoro}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Analisi}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Incremento fase di Analisi}{12}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Progettazione Architetturale}{12}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Progettazione di dettaglio e codifica}{12}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Verifica e Validazione}{12}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Totale}{12}{subsection.3.6}
+\contentsline {section}{\numberline {4}Prospetto economico}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}Analisi}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Incremento fase di Analisi}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Progettazione Architetturale}{14}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Progettazione di dettaglio e codifica}{14}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Verifica e Validazione}{14}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Totale}{14}{subsection.4.6}
+\contentsline {section}{\numberline {5}Analisi dei rischi}{15}{section.5}
+\contentsline {subsection}{\numberline {5.1}Rischi tecnologici}{15}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Rischi sul personale}{15}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Rischi organizzativi}{15}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Rischi sugli strumenti software}{15}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Rischi sugli strumenti hardware}{15}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Rischi sui requisiti}{15}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Rischi sulle stime}{15}{subsection.5.7}
+\contentsline {section}{\numberline {6}Meccanismi di Controllo e Rendicontazione}{16}{section.6}
+\contentsline {section}{\numberline {7}Consuntivo a finire}{17}{section.7}
+\contentsline {section}{\numberline {A}Organigramma}{18}{appendix.Alph1}
+\contentsline {subsection}{\numberline {A.1}Redazione}{18}{subsection.Alph1.1}
+\contentsline {subsection}{\numberline {A.2}Approvazione}{18}{subsection.Alph1.2}
+\contentsline {subsection}{\numberline {A.3}Accettazione dei componenti}{18}{subsection.Alph1.3}
+\contentsline {subsection}{\numberline {A.4}Componenti}{18}{subsection.Alph1.4}
