@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  27 DEC 2015 14:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.26)  28 DEC 2015 09:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **PianoDiProgetto.tex
 (./PianoDiProgetto.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 3 languages loaded.
+Babel <3.9h> and hyphenation patterns for 27 languages loaded.
 (../../modello/layout.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
@@ -1310,20 +1310,8 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-)
-! Font T1/cmr/m/n/10=ecrm1000 at 10.0pt not loadable: Metric (TFM) file not fou
-nd.
-<to be read again> 
-                   relax 
-l.100 \fontencoding\encodingdefault\selectfont
-                                              
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-)) (/usr/share/texmf/tex/latex/lm/lmodern.sty
+)))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -1573,11 +1561,6 @@ Underfull \hbox (badness 1205) in paragraph at lines 5--5
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 8--8
-[]| \T1/lmr/m/n/10 Fe-de-ri-ca 
- []
-
-
 Underfull \hbox (badness 1472) in paragraph at lines 9--9
 []| \T1/lmr/m/n/10 Fe-de-ri-ca 
  []
@@ -1598,12 +1581,17 @@ Underfull \hbox (badness 1472) in paragraph at lines 12--12
  []
 
 
-Overfull \hbox (1.63208pt too wide) in alignment at lines 4--14
+Underfull \hbox (badness 1472) in paragraph at lines 13--13
+[]| \T1/lmr/m/n/10 Fe-de-ri-ca 
+ []
+
+
+Overfull \hbox (1.63208pt too wide) in alignment at lines 4--15
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 14
+Underfull \vbox (badness 10000) detected at line 15
  []
 
 )
@@ -1676,13 +1664,6 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 Package xcolor Warning: Incompatible color definition on input line 17.
-
-
-Overfull \hbox (120.78719pt too wide) in paragraph at lines 17--18
-[]\T1/lmr/bx/n/10 Vincoli sul-l'or-ga-ni-gram-ma del grup-po e sul-l'of-fer-ta 
-tecnico-economica: [][]$\T1/lmtt/m/n/10 h$[][]\T1/lmr/m/n/10 ttp://www.math.uni
-pd.it/ tullio/IS-
- []
 
 
 Package xcolor Warning: Incompatible color definition on input line 27.
@@ -1947,12 +1928,12 @@ Package rerunfilecheck Info: File `PianoDiProgetto.out' has not changed.
 (rerunfilecheck)             Checksum: A15F66B1950FF7322554A8E90B7AD22E;4179.
  ) 
 Here is how much of TeX's memory you used:
- 28488 strings out of 495017
- 604360 string characters out of 6181020
- 772880 words of memory out of 5000000
- 30928 multiletter control sequences out of 15000+600000
- 68387 words of font info for 42 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 28484 strings out of 494458
+ 604308 string characters out of 6166029
+ 774145 words of memory out of 5000000
+ 30956 multiletter control sequences out of 15000+600000
+ 69150 words of font info for 43 fonts, out of 8000000 for 9000
+ 350 hyphenation exceptions out of 8191
  65i,16n,74p,809b,933s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
@@ -1961,7 +1942,7 @@ m/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 i7.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on PianoDiProgetto.pdf (18 pages, 283803 bytes).
+Output written on PianoDiProgetto.pdf (18 pages, 283737 bytes).
 PDF statistics:
  493 PDF objects out of 1000 (max. 8388607)
  455 compressed objects within 5 object streams
