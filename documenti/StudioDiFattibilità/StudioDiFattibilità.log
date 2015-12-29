@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.12.28)  29 DEC 2015 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.12.28)  29 DEC 2015 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1353,8 +1353,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (../../modello/global.tex) (./local.tex)
-No file StudioDiFattibilità.aux.
+) (../../modello/global.tex) (./local.tex) (./StudioDiFattibilità.aux)
 \openout1 = `StudioDiFattibilità.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1373,6 +1372,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 5.
+
 (c:/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1445,6 +1445,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 5.
 LaTeX Info: Redefining \pageref on input line 5.
 LaTeX Info: Redefining \nameref on input line 5.
+
+(./StudioDiFattibilità.out) (./StudioDiFattibilità.out)
 \@outlinefile=\write4
 \openout4 = `StudioDiFattibilità.out'.
 
@@ -1510,7 +1512,7 @@ your preamble.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../../modello/cookie.png, id=7, 224.84pt x 225.84375pt>
+<../../modello/cookie.png, id=47, 224.84pt x 225.84375pt>
 File: ../../modello/cookie.png Graphic file (type png)
 
 <use ../../modello/cookie.png>
@@ -1573,9 +1575,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 11.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1583,7 +1582,7 @@ been already used, duplicate ignored
 l.11 \clearpage
                 [1
 
-]
+] (./StudioDiFattibilità.toc)
 \tf@toc=\write5
 \openout5 = `StudioDiFattibilità.toc'.
 
@@ -1597,9 +1596,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 16.
 
 [2
 
@@ -1642,15 +1638,9 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 37.
-
 [3
 
 ]) (./capitolo-capitolatoC3.tex) (./capitolo-altricapitolati.tex)
-
-Package lastpage Warning: Rerun to get the references right on input line 22.
-
 
 AED: lastpage setting LastPage
 File: ../../modello/cookie.png Graphic file (type png)
@@ -1663,9 +1653,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 22.
 
 [4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
@@ -1680,20 +1667,14 @@ Package rerunfilecheck Warning: File `StudioDiFattibilità.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `StudioDiFattibilità.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  7C199E9533F2456EBB240A8DC0CC31EF;504.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Before: E3264481B11FC13689CC04E433D246C6;630
+(rerunfilecheck)             After:  642D2A90AD1408D5EB5F9A17DBAD5088;685.
  ) 
 Here is how much of TeX's memory you used:
- 31607 strings out of 493054
- 714307 string characters out of 6138326
- 884875 words of memory out of 5000000
- 34505 multiletter control sequences out of 15000+600000
+ 31629 strings out of 493054
+ 714698 string characters out of 6138326
+ 885082 words of memory out of 5000000
+ 34516 multiletter control sequences out of 15000+600000
  60608 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,15n,77p,815b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1705,10 +1686,10 @@ b><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/201
 type1/public/lm/lmri10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lm
 ri7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmro10.pfb><c:/texliv
 e/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on StudioDiFattibilità.pdf (5 pages, 194207 bytes).
+Output written on StudioDiFattibilità.pdf (5 pages, 197174 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
