@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.26)  30 DEC 2015 09:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  30 DEC 2015 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **NormeDiProgetto.tex
 (./NormeDiProgetto.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 27 languages loaded.
+Babel <3.9h> and hyphenation patterns for 3 languages loaded.
 (../../modello/layout.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
@@ -1310,8 +1310,20 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-)))
-(/usr/share/texmf/tex/latex/lm/lmodern.sty
+)
+! Font T1/cmr/m/n/10=ecrm1000 at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.100 \fontencoding\encodingdefault\selectfont
+                                              
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+)) (/usr/share/texmf/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -1740,7 +1752,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 80.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 82.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1764,7 +1776,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [12]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 165.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 156.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1774,7 +1786,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13]
-Overfull \hbox (17.42908pt too wide) in paragraph at lines 171--172
+Overfull \hbox (17.42908pt too wide) in paragraph at lines 178--179
 \T1/lmr/m/n/10 Per ci-ta-re cor-ret-ta-men-te un do-cu-men-to in un al-tro ba-s
 ta ri-far-si ai co-man-di uten-te de-fi-ni-ti in \T1/lmtt/m/n/10 modello/global
 .tex\T1/lmr/m/n/10 .
@@ -2015,12 +2027,12 @@ Package rerunfilecheck Info: File `NormeDiProgetto.out' has not changed.
 (rerunfilecheck)             Checksum: 4E3B1FE1F1357432A9082D34DDC7A0AF;7653.
  ) 
 Here is how much of TeX's memory you used:
- 28742 strings out of 494458
- 605226 string characters out of 6166029
- 794051 words of memory out of 5000000
- 31141 multiletter control sequences out of 15000+600000
- 80087 words of font info for 52 fonts, out of 8000000 for 9000
- 350 hyphenation exceptions out of 8191
+ 28742 strings out of 495017
+ 605226 string characters out of 6181020
+ 792808 words of memory out of 5000000
+ 31109 multiletter control sequences out of 15000+600000
+ 79324 words of font info for 51 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
  65i,16n,74p,948b,1339s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
@@ -2031,7 +2043,7 @@ mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6
 ype1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
-Output written on NormeDiProgetto.pdf (28 pages, 445587 bytes).
+Output written on NormeDiProgetto.pdf (28 pages, 445731 bytes).
 PDF statistics:
  817 PDF objects out of 1000 (max. 8388607)
  761 compressed objects within 8 object streams
