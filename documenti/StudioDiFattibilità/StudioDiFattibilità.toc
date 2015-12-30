@@ -8,5 +8,9 @@
 \contentsline {subsection}{\numberline {1.5}Riferimenti}{3}{subsection.1.5}
 \contentsline {subsubsection}{\numberline {1.5.1}Normativi}{3}{subsubsection.1.5.1}
 \contentsline {subsubsection}{\numberline {1.5.2}Informativi}{3}{subsubsection.1.5.2}
-\contentsline {section}{\numberline {2}capitolato C3}{4}{section.2}
-\contentsline {subsection}{\numberline {2.1}Valutazione costi e benefici}{4}{subsection.2.1}
+\contentsline {section}{\numberline {2}Capitolato C3}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Descrizione}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Studio del dominio}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Dominio applicativo}{4}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Dominio tecnologico}{4}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Valutazione costi e benefici}{5}{subsection.2.3}
