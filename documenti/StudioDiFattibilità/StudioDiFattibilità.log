@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.29)  30 DEC 2015 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.29)  30 DEC 2015 14:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1658,7 +1658,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 ]) (./capitolo-capitolatoC3.tex
 Overfull \hbox (14.02711pt too wide) in paragraph at lines 12--13
 []\T1/lmr/m/n/10 La co-mu-ni-ca-zio-ne pre-vi-sta dal-la per piat-ta-for-ma sa-
-rá rea-liz-za-ta at-tra-ver-so l'u-ti-liz-zo di pro-to-col-li \T1/lmr/m/it/10 H
+rà rea-liz-za-ta at-tra-ver-so l'u-ti-liz-zo di pro-to-col-li \T1/lmr/m/it/10 H
 TTP/HTTPS$[]$
  []
 
@@ -1724,7 +1724,7 @@ e1/public/lm/lmbxi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri7.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on StudioDiFattibilitaÌ€.pdf (7 pages, 220454 bytes).
+Output written on StudioDiFattibilitaÌ€.pdf (7 pages, 219968 bytes).
 PDF statistics:
  225 PDF objects out of 1000 (max. 8388607)
  203 compressed objects within 3 object streams
