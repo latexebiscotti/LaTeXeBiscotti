@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.26)  28 DEC 2015 09:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.26)  30 DEC 2015 09:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -484,7 +484,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip45
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 58.
+Package hyperref Info: Option `colorlinks' set `true' on input line 59.
 
 (/usr/share/texlive/texmf-dist/tex/latex/breakurl/breakurl.sty
 Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
@@ -1382,19 +1382,19 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-7.86334pt
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 652.70622pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.36449pt
 * \headheight=30.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1482,18 +1482,18 @@ our preamble.
 \c@lstlisting=\count196
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(99.58464pt, 644.05556pt, 101.40665pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=644.05556pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(99.58464pt, 599.98798pt, 95.39737pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=599.98798pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
 * \topmargin=-27.68535pt
 * \headheight=30.0pt
 * \headsep=25.0pt
@@ -1517,7 +1517,7 @@ File: ../../modello/cookie.png Graphic file (type png)
 
 <use ../../modello/cookie.png>
 Package pdftex.def Info: ../../modello/cookie.png used on input line 8.
-(pdftex.def)             Requested size: 284.52756pt x 285.82933pt.
+(pdftex.def)             Requested size: 227.62204pt x 228.6483pt.
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 8.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1558,12 +1558,7 @@ Underfull \hbox (badness 1205) in paragraph at lines 6--6
  []
 
 
-Overfull \hbox (1.63208pt too wide) in alignment at lines 5--30
- [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 30
+Underfull \vbox (badness 10000) detected at line 32
  []
 
 )
@@ -1588,7 +1583,7 @@ l.12 \clearpage
 ] (./NormeDiProgetto.toc
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 48.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 53.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1599,10 +1594,13 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 
 [2
 
-]
+])
+\tf@toc=\write5
+\openout5 = `NormeDiProgetto.toc'.
+
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 94.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 16.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1611,11 +1609,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3])
-\tf@toc=\write5
-\openout5 = `NormeDiProgetto.toc'.
-
- (./NormeDiProgetto.lof)
+[3] (./NormeDiProgetto.lof)
 \tf@lof=\write6
 \openout6 = `NormeDiProgetto.lof'.
 
@@ -1669,15 +1663,9 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 16.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (6.02708pt too wide) in paragraph at lines 17--18
-[]\T1/lmr/bx/n/10 Messaggistica Istan-ta-nea\T1/lmr/m/n/10 : è sta-ta crea-ta u
-na chat al-l'in-ter-no del-la piat-ta-for-ma \T1/lmr/m/it/10 Telegram$[]$\T1/lm
-r/m/n/10 .
- []
-
 File: ../../modello/cookie.png Graphic file (type png)
-<use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 30.
+ <use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 37.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1692,7 +1680,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 58.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 67.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1702,9 +1690,15 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7]
+Overfull \hbox (30.48636pt too wide) in paragraph at lines 88--91
+\T1/lmtt/m/n/10 {NomeDelDocumento}\T1/lmr/m/n/10 . In par-ti-co-la-re con-ter-r
+à il fi-le \T1/lmtt/m/n/10 {NomeDelDocumento}.pdf \T1/lmr/m/n/10 e il fi-le \T1
+/lmtt/m/n/10 diario_modifiche.tex\T1/lmr/m/n/10 ,
+ []
+
 File: ../../modello/cookie.png Graphic file (type png)
- <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 83.
+<use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 97.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1731,7 +1725,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  (./capitolo-documenti.tex
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 35.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 38.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1746,7 +1740,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 69.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 80.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1758,7 +1752,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [11]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 107.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 123.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1770,7 +1764,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [12]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 139.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 165.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1780,18 +1774,13 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13]
-File: ../../modello/cookie.png Graphic file (type png)
- <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 180.
-(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
+Overfull \hbox (17.42908pt too wide) in paragraph at lines 171--172
+\T1/lmr/m/n/10 Per ci-ta-re cor-ret-ta-men-te un do-cu-men-to in un al-tro ba-s
+ta ri-far-si ai co-man-di uten-te de-fi-ni-ti in \T1/lmtt/m/n/10 modello/global
+.tex\T1/lmr/m/n/10 .
+ []
 
-
-Package Fancyhdr Warning: \headheight is too small (30.0pt): 
- Make it at least 46.27646pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[14])
+)
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
 Package pdftex.def Info: ../../modello/cookie.png used on input line 22.
@@ -1803,13 +1792,13 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[14]
 \openout2 = `capitolo-ruoli.aux'.
 
  (./capitolo-ruoli.tex
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 29.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 31.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1818,7 +1807,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16
+[15
 
 
 ])
@@ -1833,13 +1822,13 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]
+[16]
 \openout2 = `capitolo-procedureprocessi.aux'.
 
  (./capitolo-procedureprocessi.tex
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 30.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 34.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1848,13 +1837,25 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18
+[17
 
 
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 51.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 63.
+(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (30.0pt): 
+ Make it at least 46.27646pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+File: ../../modello/cookie.png Graphic file (type png)
+ <use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 112.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1866,7 +1867,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [19]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 90.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 149.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1875,31 +1876,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20]
-File: ../../modello/cookie.png Graphic file (type png)
- <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 129.
-(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (30.0pt): 
- Make it at least 46.27646pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[21]
-File: ../../modello/cookie.png Graphic file (type png)
- <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 159.
-(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (30.0pt): 
- Make it at least 46.27646pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[22] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+[20] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
@@ -1920,13 +1897,10 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23]
-\openout2 = `capitolo-ambientelavoro.aux'.
-
- (./capitolo-ambientelavoro.tex
+[21]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 23.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 24.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1935,7 +1909,22 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24
+[22]
+\openout2 = `capitolo-ambientelavoro.aux'.
+
+ (./capitolo-ambientelavoro.tex
+File: ../../modello/cookie.png Graphic file (type png)
+ <use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 26.
+(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (30.0pt): 
+ Make it at least 46.27646pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23
 
 
 ]
@@ -1945,9 +1934,12 @@ Package xcolor Warning: Incompatible color definition on input line 32.
 
 Package xcolor Warning: Incompatible color definition on input line 39.
 
+
+Package xcolor Warning: Incompatible color definition on input line 52.
+
 File: ../../modello/cookie.png Graphic file (type png)
 <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 44.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 57.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1956,11 +1948,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25]
-
-Package xcolor Warning: Incompatible color definition on input line 52.
-
-<CreazioneCompito.png, id=715, 662.475pt x 1265.47781pt>
+[24] <CreazioneCompito.png, id=711, 662.475pt x 1265.47781pt>
 File: CreazioneCompito.png Graphic file (type png)
 
 <use CreazioneCompito.png>
@@ -1977,7 +1965,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26] <ModificaCompito.png, id=723, 662.475pt x 641.39626pt>
+[25] <ModificaCompito.png, id=718, 662.475pt x 641.39626pt>
 File: ModificaCompito.png Graphic file (type png)
 
 <use ModificaCompito.png>
@@ -1985,7 +1973,7 @@ Package pdftex.def Info: ModificaCompito.png used on input line 82.
 (pdftex.def)             Requested size: 284.52756pt x 275.47205pt.
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 84.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 85.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1994,7 +1982,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27 <./CreazioneCompito.png>]
+[26 <./CreazioneCompito.png>]
 
 Package xcolor Warning: Incompatible color definition on input line 88.
 
@@ -2013,7 +2001,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28 <./ModificaCompito.png>] 
+[27 <./ModificaCompito.png>] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
@@ -2027,9 +2015,9 @@ Package rerunfilecheck Info: File `NormeDiProgetto.out' has not changed.
 (rerunfilecheck)             Checksum: 4E3B1FE1F1357432A9082D34DDC7A0AF;7653.
  ) 
 Here is how much of TeX's memory you used:
- 28743 strings out of 494458
- 605233 string characters out of 6166029
- 792083 words of memory out of 5000000
+ 28742 strings out of 494458
+ 605226 string characters out of 6166029
+ 794051 words of memory out of 5000000
  31141 multiletter control sequences out of 15000+600000
  80087 words of font info for 52 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
@@ -2043,10 +2031,10 @@ mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6
 ype1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
-Output written on NormeDiProgetto.pdf (29 pages, 447378 bytes).
+Output written on NormeDiProgetto.pdf (28 pages, 445587 bytes).
 PDF statistics:
- 822 PDF objects out of 1000 (max. 8388607)
- 765 compressed objects within 8 object streams
- 167 named destinations out of 1000 (max. 500000)
+ 817 PDF objects out of 1000 (max. 8388607)
+ 761 compressed objects within 8 object streams
+ 166 named destinations out of 1000 (max. 500000)
  844 words of extra memory for PDF output out of 10000 (max. 10000000)
 

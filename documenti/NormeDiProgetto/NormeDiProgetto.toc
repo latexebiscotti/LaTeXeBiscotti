@@ -10,8 +10,8 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Comunicazioni Interne}{6}{subsubsection.2.1.2}
 \contentsline {subsubsection}{\numberline {2.1.3}Composizione Post}{6}{subsubsection.2.1.3}
 \contentsline {paragraph}{\numberline {2.1.3.1}Titolo}{6}{paragraph.2.1.3.1}
-\contentsline {paragraph}{\numberline {2.1.3.2}Contenuto}{7}{paragraph.2.1.3.2}
-\contentsline {paragraph}{\numberline {2.1.3.3}Allegati}{7}{paragraph.2.1.3.3}
+\contentsline {paragraph}{\numberline {2.1.3.2}Contenuto}{6}{paragraph.2.1.3.2}
+\contentsline {paragraph}{\numberline {2.1.3.3}Allegati}{6}{paragraph.2.1.3.3}
 \contentsline {paragraph}{\numberline {2.1.3.4}Categoria}{7}{paragraph.2.1.3.4}
 \contentsline {paragraph}{\numberline {2.1.3.5}Notifiche}{7}{paragraph.2.1.3.5}
 \contentsline {subsection}{\numberline {2.2}Riunioni}{7}{subsection.2.2}
@@ -23,8 +23,8 @@
 \contentsline {subsubsection}{\numberline {2.2.3}Verbale}{8}{subsubsection.2.2.3}
 \contentsline {paragraph}{\numberline {2.2.3.1}Riunione Interna}{8}{paragraph.2.2.3.1}
 \contentsline {paragraph}{\numberline {2.2.3.2}Riunione Esterna}{8}{paragraph.2.2.3.2}
-\contentsline {subsection}{\numberline {2.3}Repository e strumenti di condivisione file}{9}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Struttura Repository dei Documenti}{9}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3}Repository e strumenti di condivisione file}{8}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Struttura Repository dei Documenti}{8}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2.3.2}Condivisione dei File}{9}{subsubsection.2.3.2}
 \contentsline {section}{\numberline {3}Documenti}{10}{section.3}
 \contentsline {subsection}{\numberline {3.1}Template}{10}{subsection.3.1}
@@ -35,70 +35,70 @@
 \contentsline {subsubsection}{\numberline {3.2.4}Formattazione delle Pagine}{11}{subsubsection.3.2.4}
 \contentsline {subsection}{\numberline {3.3}Regole Tipografiche}{11}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Punteggiatura e Norme Grammaticali}{11}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Stile di Testo}{12}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Stile di Testo}{11}{subsubsection.3.3.2}
 \contentsline {subsubsection}{\numberline {3.3.3}Composizione del Testo}{12}{subsubsection.3.3.3}
 \contentsline {subsubsection}{\numberline {3.3.4}Formati}{12}{subsubsection.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.5}Sigle}{13}{subsubsection.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.5}Sigle}{12}{subsubsection.3.3.5}
 \contentsline {subsection}{\numberline {3.4}Componenti Grafiche}{13}{subsection.3.4}
 \contentsline {subsubsection}{\numberline {3.4.1}Tabelle}{13}{subsubsection.3.4.1}
 \contentsline {subsubsection}{\numberline {3.4.2}Immagini}{13}{subsubsection.3.4.2}
-\contentsline {subsection}{\numberline {3.5}Classificazione Documenti}{14}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}Documenti informali}{14}{subsubsection.3.5.1}
-\contentsline {subsubsection}{\numberline {3.5.2}Documenti formali}{14}{subsubsection.3.5.2}
-\contentsline {subsection}{\numberline {3.6}Versionamento}{14}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Ciclo di Vita}{15}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}Glossario}{15}{subsection.3.8}
-\contentsline {section}{\numberline {4}Ruoli di Progetto}{16}{section.4}
-\contentsline {subsection}{\numberline {4.1}Amministratore}{16}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Analista}{16}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Progettista}{16}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Programmatore}{16}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Responsabile di Progetto}{17}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Verificatore}{17}{subsection.4.6}
-\contentsline {section}{\numberline {5}Procedure a Supporto dei Processi}{18}{section.5}
-\contentsline {subsection}{\numberline {5.1}Gestione di Progetto}{18}{subsection.5.1}
-\contentsline {subsubsection}{\numberline {5.1.1}Pianificazione delle Attivit\IeC {\`a}}{18}{subsubsection.5.1.1}
-\contentsline {subsubsection}{\numberline {5.1.2}Coordinazione e Controllo delle Attivit\IeC {\`a}}{18}{subsubsection.5.1.2}
-\contentsline {subsubsection}{\numberline {5.1.3}Gestione e Controllo delle Risorse}{18}{subsubsection.5.1.3}
-\contentsline {subsubsection}{\numberline {5.1.4}Analisi e Gestione dei Rischi}{18}{subsubsection.5.1.4}
-\contentsline {subsubsection}{\numberline {5.1.5}Elaborazione dei Dati}{19}{subsubsection.5.1.5}
-\contentsline {subsubsection}{\numberline {5.1.6}Delega}{19}{subsubsection.5.1.6}
-\contentsline {subsubsection}{\numberline {5.1.7}Assegnazione di Attivit\IeC {\`a}}{19}{subsubsection.5.1.7}
-\contentsline {subsubsection}{\numberline {5.1.8}Gestione dei Cambiamenti}{19}{subsubsection.5.1.8}
-\contentsline {subsection}{\numberline {5.2}Analisi dei Requisiti}{19}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Studio di Fattibilit\IeC {\`a} e Analisi dei Rischi}{19}{subsubsection.5.2.1}
-\contentsline {subsubsection}{\numberline {5.2.2}Analisi dei Requisiti}{20}{subsubsection.5.2.2}
-\contentsline {paragraph}{\numberline {5.2.2.1}Classificazione dei Requisiti}{20}{paragraph.5.2.2.1}
-\contentsline {paragraph}{\numberline {5.2.2.2}Casi d'Uso}{20}{paragraph.5.2.2.2}
-\contentsline {subsection}{\numberline {5.3}Progettazione}{21}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5.3.1}Specifica Tecnica}{21}{subsubsection.5.3.1}
-\contentsline {paragraph}{\numberline {5.3.1.1}Diagrammi UML}{21}{paragraph.5.3.1.1}
-\contentsline {paragraph}{\numberline {5.3.1.2}Design Pattern}{21}{paragraph.5.3.1.2}
-\contentsline {paragraph}{\numberline {5.3.1.3}Tracciamento Componenti}{21}{paragraph.5.3.1.3}
-\contentsline {paragraph}{\numberline {5.3.1.4}Test di Integrazione}{22}{paragraph.5.3.1.4}
-\contentsline {subsubsection}{\numberline {5.3.2}Definizione di Prodotto}{22}{subsubsection.5.3.2}
-\contentsline {paragraph}{\numberline {5.3.2.1}Diagrammi UML}{22}{paragraph.5.3.2.1}
-\contentsline {paragraph}{\numberline {5.3.2.2}Definizione di Classe}{22}{paragraph.5.3.2.2}
-\contentsline {paragraph}{\numberline {5.3.2.3}Tracciamento delle Classi}{22}{paragraph.5.3.2.3}
-\contentsline {paragraph}{\numberline {5.3.2.4}Test di Unit\IeC {\`a}}{22}{paragraph.5.3.2.4}
-\contentsline {subsection}{\numberline {5.4}Codifica}{22}{subsection.5.4}
-\contentsline {subsubsection}{\numberline {5.4.1}Nomi}{22}{subsubsection.5.4.1}
-\contentsline {subsubsection}{\numberline {5.4.2}Ricorsione}{23}{subsubsection.5.4.2}
-\contentsline {subsubsection}{\numberline {5.4.3}Documentazione del Codice}{23}{subsubsection.5.4.3}
-\contentsline {section}{\numberline {6}Ambiente di Lavoro}{24}{section.6}
-\contentsline {subsection}{\numberline {6.1}Coordinamento}{24}{subsection.6.1}
-\contentsline {subsubsection}{\numberline {6.1.1}Software di Versionamento}{24}{subsubsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.2}Condivisione dei File}{24}{subsubsection.6.1.2}
-\contentsline {subsection}{\numberline {6.2}Software di Pianificazione e Gestione dei Compiti}{24}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Strumenti per i Documenti}{25}{subsection.6.3}
-\contentsline {subsubsection}{\numberline {6.3.1}\textlatin {\LaTeX }}{25}{subsubsection.6.3.1}
-\contentsline {subsubsection}{\numberline {6.3.2}Verifica}{25}{subsubsection.6.3.2}
-\contentsline {subsubsection}{\numberline {6.3.3}Diagrammi UML}{25}{subsubsection.6.3.3}
-\contentsline {subsubsection}{\numberline {6.3.4}Fogli di Calcolo}{26}{subsubsection.6.3.4}
-\contentsline {subsubsection}{\numberline {6.3.5}Software per le Presentazioni}{26}{subsubsection.6.3.5}
-\contentsline {subsection}{\numberline {6.4}Protocollo per lo Sviluppo dell'Applicazione}{26}{subsection.6.4}
-\contentsline {subsubsection}{\numberline {6.4.1}Creare un Nuovo Progetto}{26}{subsubsection.6.4.1}
-\contentsline {subsubsection}{\numberline {6.4.2}Assegnazione di un Nuovo Compito}{26}{subsubsection.6.4.2}
-\contentsline {subsubsection}{\numberline {6.4.3}Modifica di un Compito}{28}{subsubsection.6.4.3}
-\contentsline {subsection}{\numberline {6.5}Strumenti per lo Sviluppo dell'Applicazione e per la Codifica}{28}{subsection.6.5}
-\contentsline {subsubsection}{\numberline {6.5.1}Framework}{28}{subsubsection.6.5.1}
+\contentsline {subsection}{\numberline {3.5}Classificazione Documenti}{13}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Documenti informali}{13}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Documenti formali}{13}{subsubsection.3.5.2}
+\contentsline {subsection}{\numberline {3.6}Versionamento}{13}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Ciclo di Vita}{14}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Glossario}{14}{subsection.3.8}
+\contentsline {section}{\numberline {4}Ruoli di Progetto}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}Amministratore}{15}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Analista}{15}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Progettista}{15}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Programmatore}{15}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Responsabile di Progetto}{15}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Verificatore}{16}{subsection.4.6}
+\contentsline {section}{\numberline {5}Procedure a Supporto dei Processi}{17}{section.5}
+\contentsline {subsection}{\numberline {5.1}Gestione di Progetto}{17}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Pianificazione delle Attivit\IeC {\`a}}{17}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Coordinazione e Controllo delle Attivit\IeC {\`a}}{17}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Gestione e Controllo delle Risorse}{17}{subsubsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.4}Analisi e Gestione dei Rischi}{17}{subsubsection.5.1.4}
+\contentsline {subsubsection}{\numberline {5.1.5}Elaborazione dei Dati}{17}{subsubsection.5.1.5}
+\contentsline {subsubsection}{\numberline {5.1.6}Delega}{18}{subsubsection.5.1.6}
+\contentsline {subsubsection}{\numberline {5.1.7}Assegnazione di Attivit\IeC {\`a}}{18}{subsubsection.5.1.7}
+\contentsline {subsubsection}{\numberline {5.1.8}Gestione dei Cambiamenti}{18}{subsubsection.5.1.8}
+\contentsline {subsection}{\numberline {5.2}Analisi dei Requisiti}{18}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Studio di Fattibilit\IeC {\`a} e Analisi dei Rischi}{18}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Analisi dei Requisiti}{18}{subsubsection.5.2.2}
+\contentsline {paragraph}{\numberline {5.2.2.1}Classificazione dei Requisiti}{18}{paragraph.5.2.2.1}
+\contentsline {paragraph}{\numberline {5.2.2.2}Casi d'Uso}{19}{paragraph.5.2.2.2}
+\contentsline {subsection}{\numberline {5.3}Progettazione}{20}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Specifica Tecnica}{20}{subsubsection.5.3.1}
+\contentsline {paragraph}{\numberline {5.3.1.1}Diagrammi UML}{20}{paragraph.5.3.1.1}
+\contentsline {paragraph}{\numberline {5.3.1.2}Design Pattern}{20}{paragraph.5.3.1.2}
+\contentsline {paragraph}{\numberline {5.3.1.3}Tracciamento Componenti}{20}{paragraph.5.3.1.3}
+\contentsline {paragraph}{\numberline {5.3.1.4}Test di Integrazione}{20}{paragraph.5.3.1.4}
+\contentsline {subsubsection}{\numberline {5.3.2}Definizione di Prodotto}{20}{subsubsection.5.3.2}
+\contentsline {paragraph}{\numberline {5.3.2.1}Diagrammi UML}{20}{paragraph.5.3.2.1}
+\contentsline {paragraph}{\numberline {5.3.2.2}Definizione di Classe}{20}{paragraph.5.3.2.2}
+\contentsline {paragraph}{\numberline {5.3.2.3}Tracciamento delle Classi}{20}{paragraph.5.3.2.3}
+\contentsline {paragraph}{\numberline {5.3.2.4}Test di Unit\IeC {\`a}}{21}{paragraph.5.3.2.4}
+\contentsline {subsection}{\numberline {5.4}Codifica}{21}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Nomi}{21}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Ricorsione}{21}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.3}Documentazione del Codice}{21}{subsubsection.5.4.3}
+\contentsline {section}{\numberline {6}Ambiente di Lavoro}{23}{section.6}
+\contentsline {subsection}{\numberline {6.1}Coordinamento}{23}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Software di Versionamento}{23}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Condivisione dei File}{23}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}Software di Pianificazione e Gestione dei Compiti}{23}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Strumenti per i Documenti}{24}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}\textlatin {\LaTeX }}{24}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}Verifica}{24}{subsubsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.3}Diagrammi UML}{24}{subsubsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6.3.4}Fogli di Calcolo}{24}{subsubsection.6.3.4}
+\contentsline {subsubsection}{\numberline {6.3.5}Software per le Presentazioni}{24}{subsubsection.6.3.5}
+\contentsline {subsection}{\numberline {6.4}Protocollo per lo Sviluppo dell'Applicazione}{25}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6.4.1}Creare un Nuovo Progetto}{25}{subsubsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.2}Assegnazione di un Nuovo Compito}{25}{subsubsection.6.4.2}
+\contentsline {subsubsection}{\numberline {6.4.3}Modifica di un Compito}{26}{subsubsection.6.4.3}
+\contentsline {subsection}{\numberline {6.5}Strumenti per lo Sviluppo dell'Applicazione e per la Codifica}{27}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Framework}{27}{subsubsection.6.5.1}
