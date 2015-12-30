@@ -14,21 +14,21 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Dominio applicativo}{4}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}Dominio tecnologico}{4}{subsubsection.2.2.2}
 \contentsline {subsection}{\numberline {2.3}Valutazione costi e benefici}{5}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Valutazione finale}{5}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Potenziali Criticit\IeC {\`a}}{5}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.4}Potenziali Criticit\'a}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Valutazione finale}{5}{subsection.2.5}
 \contentsline {section}{\numberline {3}Altri capitolati}{5}{section.3}
 \contentsline {subsection}{\numberline {3.1}C1 - Actorbase: a NoSQL DB based on the Actor model}{5}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Valutazione generale}{5}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Potenziali Criticit\IeC {\`a}}{6}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2}Potenziali Criticit\'a}{6}{subsubsection.3.1.2}
 \contentsline {subsection}{\numberline {3.2}C2 - CLIPS: Communication \& Localisation with Indoor Positioning System}{6}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}Valutazione generale}{6}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Potenziali Criticit\IeC {\`a}}{6}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2}Potenziali Criticit\'a}{6}{subsubsection.3.2.2}
 \contentsline {subsection}{\numberline {3.3}C4- MaaS: MongoDB as an admin Service}{7}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Valutazione generale}{7}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Potenziali Criticit\IeC {\`a}}{7}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Potenziali Criticit\'a}{7}{subsubsection.3.3.2}
 \contentsline {subsection}{\numberline {3.4}C5 - Quizzipedia: software per la gestione di questionari}{7}{subsection.3.4}
 \contentsline {subsubsection}{\numberline {3.4.1}Valutazione generale}{7}{subsubsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.2}Potenziali Criticit\IeC {\`a}}{8}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2}Potenziali Criticit\'a}{8}{subsubsection.3.4.2}
 \contentsline {subsection}{\numberline {3.5}C6 - SiVoDiM: Sintesi Vocale per Dispositivi Mobili}{8}{subsection.3.5}
 \contentsline {subsubsection}{\numberline {3.5.1}Valutazione generale}{8}{subsubsection.3.5.1}
-\contentsline {subsubsection}{\numberline {3.5.2}Potenziali Criticit\IeC {\`a}}{8}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2}Potenziali Criticit\'a}{8}{subsubsection.3.5.2}
