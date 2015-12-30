@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.30)  30 DEC 2015 18:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.30)  30 DEC 2015 19:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1507,7 +1507,7 @@ our preamble.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../../modello/cookie.png, id=127, 224.84pt x 225.84375pt>
+<../../modello/cookie.png, id=135, 224.84pt x 225.84375pt>
 File: ../../modello/cookie.png Graphic file (type png)
 
 <use ../../modello/cookie.png>
@@ -1657,7 +1657,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [5]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 58.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 53.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1666,7 +1666,19 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6]) 
+[6]
+File: ../../modello/cookie.png Graphic file (type png)
+ <use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 89.
+(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (30.0pt): 
+ Make it at least 46.27646pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]) 
 AED: lastpage setting LastPage
 File: ../../modello/cookie.png Graphic file (type png)
 <use ../../modello/cookie.png>
@@ -1679,27 +1691,20 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7]
+[8]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
  (./StudioDiFattibilità.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
-
-
-Package rerunfilecheck Warning: File `StudioDiFattibilità.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `StudioDiFattibilità.out':
-(rerunfilecheck)             Before: FCC33621F1FFCB87B946EC472D4B5A84;2249
-(rerunfilecheck)             After:  AF7AF16CA9A8F7C0C0FAE633E13CE6A2;2322.
+Package rerunfilecheck Info: File `StudioDiFattibilità.out' has not changed.
+(rerunfilecheck)             Checksum: 67ACFF0B07CC27D06EF9CA956BF65E35;2445.
  ) 
 Here is how much of TeX's memory you used:
- 28198 strings out of 493304
- 598312 string characters out of 6139870
+ 28202 strings out of 493304
+ 598414 string characters out of 6139870
  759947 words of memory out of 5000000
- 30990 multiletter control sequences out of 15000+600000
+ 30992 multiletter control sequences out of 15000+600000
  69150 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  65i,15n,74p,976b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1710,10 +1715,10 @@ m/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 i7.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on StudioDiFattibilità.pdf (8 pages, 226238 bytes).
+Output written on StudioDiFattibilità.pdf (9 pages, 227811 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 40 named destinations out of 1000 (max. 500000)
- 258 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
