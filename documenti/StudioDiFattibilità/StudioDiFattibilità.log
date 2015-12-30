@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.30)  30 DEC 2015 19:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.30)  30 DEC 2015 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1553,7 +1553,7 @@ Underfull \hbox (badness 1205) in paragraph at lines 5--5
  []
 
 
-Underfull \vbox (badness 10000) detected at line 14
+Underfull \vbox (badness 10000) detected at line 15
  []
 
 )
@@ -1703,7 +1703,7 @@ Package rerunfilecheck Info: File `StudioDiFattibilità.out' has not changed.
 Here is how much of TeX's memory you used:
  28202 strings out of 493304
  598414 string characters out of 6139870
- 759947 words of memory out of 5000000
+ 760947 words of memory out of 5000000
  30992 multiletter control sequences out of 15000+600000
  69150 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1715,7 +1715,7 @@ m/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 i7.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on StudioDiFattibilità.pdf (9 pages, 227811 bytes).
+Output written on StudioDiFattibilità.pdf (9 pages, 227899 bytes).
 PDF statistics:
  273 PDF objects out of 1000 (max. 8388607)
  249 compressed objects within 3 object streams
