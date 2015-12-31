@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.29)  31 DEC 2015 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.29)  31 DEC 2015 13:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1537,7 +1537,7 @@ your preamble.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../../modello/cookie.png, id=7, 224.84pt x 225.84375pt>
+<../../modello/cookie.png, id=79, 224.84pt x 225.84375pt>
 File: ../../modello/cookie.png Graphic file (type png)
 
 <use ../../modello/cookie.png>
@@ -1599,9 +1599,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 11.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1609,15 +1606,12 @@ been already used, duplicate ignored
 l.11 \clearpage
                 [1
 
-]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+] (./Glossario.toc)
 \tf@toc=\write5
 \openout5 = `Glossario.toc'.
 
 File: ../../modello/cookie.png Graphic file (type png)
-<use ../../modello/cookie.png>
+ <use ../../modello/cookie.png>
 Package pdftex.def Info: ../../modello/cookie.png used on input line 14.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
@@ -1626,9 +1620,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 14.
 
 [2
 
@@ -1644,9 +1635,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 35.
-
 [3
 
 ]
@@ -1660,9 +1648,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 55.
 
 [4
 
@@ -1679,9 +1664,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 75.
-
 [5
 
 
@@ -1696,9 +1678,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 83.
 
 [6
 
@@ -1715,9 +1694,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 88.
-
 [7
 
 
@@ -1733,16 +1709,13 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 99.
-
 [8
 
 
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 112.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 113.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1750,9 +1723,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 112.
 
 [9
 
@@ -1760,7 +1730,7 @@ LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 112.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 129.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 130.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1768,9 +1738,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 129.
 
 [10
 
@@ -1778,7 +1745,7 @@ LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 129.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 143.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 144.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1786,9 +1753,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 143.
 
 [11
 
@@ -1796,7 +1760,7 @@ LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 143.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 160.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 161.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1804,9 +1768,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 160.
 
 [12
 
@@ -1814,7 +1775,7 @@ LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 160.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 168.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 169.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1822,9 +1783,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 168.
 
 [13
 
@@ -1832,7 +1790,7 @@ LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 168.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 173.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 174.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1840,9 +1798,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 173.
 
 [14
 
@@ -1850,7 +1805,7 @@ LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 173.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 187.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 188.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1858,9 +1813,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 187.
 
 [15
 
@@ -1868,7 +1820,7 @@ LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 187.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 195.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 196.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1876,9 +1828,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 195.
 
 [16
 
@@ -1886,7 +1835,7 @@ LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 195.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 206.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 207.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1894,9 +1843,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 206.
 
 [17
 
@@ -1904,7 +1850,7 @@ LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 206.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 217.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 218.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1912,9 +1858,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 217.
 
 [18
 
@@ -1922,7 +1865,7 @@ LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 217.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 222.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 223.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1930,9 +1873,6 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  Make it at least 46.27646pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 222.
 
 [19
 
@@ -1940,7 +1880,7 @@ LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 222.
 ]
 File: ../../modello/cookie.png Graphic file (type png)
  <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 233.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 234.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1949,44 +1889,24 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 233.
-
 [20
 
 
-]
-
-Package lastpage Warning: Rerun to get the references right on input line 235.
-
-
+] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
 (./Glossario.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 235.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 235.
-
-
-Package rerunfilecheck Warning: File `Glossario.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Glossario.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  598BD425472A24363B75BEBF41865FCA;684.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package rerunfilecheck Info: File `Glossario.out' has not changed.
+(rerunfilecheck)             Checksum: 598BD425472A24363B75BEBF41865FCA;684.
  ) 
 Here is how much of TeX's memory you used:
- 31507 strings out of 493089
- 716346 string characters out of 6134841
- 884760 words of memory out of 5000000
- 34340 multiletter control sequences out of 15000+600000
+ 31528 strings out of 493089
+ 716601 string characters out of 6134841
+ 884879 words of memory out of 5000000
+ 34359 multiletter control sequences out of 15000+600000
  56925 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,15n,77p,803b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1998,10 +1918,10 @@ e1/public/lm/lmbxi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri7.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmro10.pfb>
-Output written on Glossario.pdf (21 pages, 190326 bytes).
+Output written on Glossario.pdf (21 pages, 193330 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 256 PDF objects out of 1000 (max. 8388607)
+ 221 compressed objects within 3 object streams
  40 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
