@@ -48,15 +48,18 @@
 \contentsline {section}{\numberline {5}Analisi dei rischi}{15}{section.5}
 \contentsline {subsection}{\numberline {5.1}Rischi tecnologici}{15}{subsection.5.1}
 \contentsline {subsection}{\numberline {5.2}Rischi sul personale}{15}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Rischi organizzativi}{15}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Rischi sugli strumenti software}{15}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Rischi sugli strumenti hardware}{15}{subsection.5.5}
-\contentsline {subsection}{\numberline {5.6}Rischi sui requisiti}{15}{subsection.5.6}
-\contentsline {subsection}{\numberline {5.7}Rischi sulle stime}{15}{subsection.5.7}
-\contentsline {section}{\numberline {6}Meccanismi di Controllo e Rendicontazione}{16}{section.6}
-\contentsline {section}{\numberline {7}Consuntivo a finire}{17}{section.7}
-\contentsline {section}{\numberline {A}Organigramma}{18}{appendix.Alph1}
-\contentsline {subsection}{\numberline {A.1}Redazione}{18}{subsection.Alph1.1}
-\contentsline {subsection}{\numberline {A.2}Approvazione}{18}{subsection.Alph1.2}
-\contentsline {subsection}{\numberline {A.3}Accettazione dei componenti}{18}{subsection.Alph1.3}
-\contentsline {subsection}{\numberline {A.4}Componenti}{18}{subsection.Alph1.4}
+\contentsline {subsubsection}{\numberline {5.2.1}Indisponibilit\IeC {\`a} dei componenti del gruppo}{15}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Problemi tra componenti del gruppo}{15}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}Inesperienze del gruppo}{16}{subsubsection.5.2.3}
+\contentsline {subsection}{\numberline {5.3}Rischi organizzativi}{16}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Rischi sugli strumenti software}{16}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Rischi sugli strumenti hardware}{16}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Rischi sui requisiti}{16}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Rischi sulle stime}{16}{subsection.5.7}
+\contentsline {section}{\numberline {6}Meccanismi di Controllo e Rendicontazione}{17}{section.6}
+\contentsline {section}{\numberline {7}Consuntivo a finire}{18}{section.7}
+\contentsline {section}{\numberline {A}Organigramma}{19}{appendix.Alph1}
+\contentsline {subsection}{\numberline {A.1}Redazione}{19}{subsection.Alph1.1}
+\contentsline {subsection}{\numberline {A.2}Approvazione}{19}{subsection.Alph1.2}
+\contentsline {subsection}{\numberline {A.3}Accettazione dei componenti}{19}{subsection.Alph1.3}
+\contentsline {subsection}{\numberline {A.4}Componenti}{19}{subsection.Alph1.4}

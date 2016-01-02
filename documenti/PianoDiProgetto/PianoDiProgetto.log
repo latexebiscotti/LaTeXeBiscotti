@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  28 DEC 2015 19:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.23)  2 JAN 2016 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1525,12 +1525,12 @@ our preamble.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../../modello/cookie.png, id=248, 224.84pt x 225.84375pt>
+<../../modello/cookie.png, id=260, 224.84pt x 225.84375pt>
 File: ../../modello/cookie.png Graphic file (type png)
 
 <use ../../modello/cookie.png>
 Package pdftex.def Info: ../../modello/cookie.png used on input line 10.
-(pdftex.def)             Requested size: 284.52756pt x 285.82933pt.
+(pdftex.def)             Requested size: 227.62204pt x 228.6483pt.
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 10.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1567,24 +1567,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../../modello/cookie.png>]
-File: ../../modello/cookie.png Graphic file (type png)
- <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 10.
-(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (30.0pt): 
- Make it at least 46.27646pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2] (./diario_modifiche.tex
+ (./diario_modifiche.tex
 Underfull \hbox (badness 1205) in paragraph at lines 5--5
 []| \T1/lmr/bx/n/10 Per-so-ne 
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 9--9
+Underfull \hbox (badness 1472) in paragraph at lines 8--8
 []| \T1/lmr/m/n/10 Fe-de-ri-ca 
  []
 
@@ -1609,7 +1598,12 @@ Underfull \hbox (badness 1472) in paragraph at lines 13--13
  []
 
 
-Underfull \vbox (badness 10000) detected at line 15
+Underfull \hbox (badness 1472) in paragraph at lines 14--14
+[]| \T1/lmr/m/n/10 Fe-de-ri-ca 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 16
  []
 
 )
@@ -1643,12 +1637,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.52 ...li strumenti software}{15}{subsection.5.4}
-                                                   [2
+[2
 
 ])
 \tf@toc=\write5
@@ -1658,12 +1647,13 @@ l.52 ...li strumenti software}{15}{subsection.5.4}
 \tf@lot=\write6
 \openout6 = `PianoDiProgetto.lot'.
 
-(./PianoDiProgetto.lof)
+ (./PianoDiProgetto.lof)
 \tf@lof=\write7
 \openout7 = `PianoDiProgetto.lof'.
 
 File: ../../modello/cookie.png Graphic file (type png)
- <use ../../modello/cookie.png>
+
+<use ../../modello/cookie.png>
 Package pdftex.def Info: ../../modello/cookie.png used on input line 20.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
@@ -1734,7 +1724,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [6
 
 
-] <gantt/ganttAnalisi.png, id=387, 1092.08pt x 1887.05pt>
+] <gantt/ganttAnalisi.png, id=398, 1092.08pt x 1887.05pt>
 File: gantt/ganttAnalisi.png Graphic file (type png)
 
 <use gantt/ganttAnalisi.png>
@@ -1799,7 +1789,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 \openout2 = `sezione-suddivisioneDelLavoro.aux'.
 
  (./sezione-suddivisioneDelLavoro.tex
-<img_ore/oreAnalisi.png, id=408, 730.73pt x 339.2675pt>
+<img_ore/oreAnalisi.png, id=419, 730.73pt x 339.2675pt>
 File: img_ore/oreAnalisi.png Graphic file (type png)
 
 <use img_ore/oreAnalisi.png>
@@ -1836,14 +1826,14 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 \openout2 = `sezione-prospettoEconomico.aux'.
 
  (./sezione-prospettoEconomico.tex
-<img_peconomico/oreAnalisi.png, id=420, 577.15625pt x 332.24126pt>
+<img_peconomico/oreAnalisi.png, id=431, 577.15625pt x 332.24126pt>
 File: img_peconomico/oreAnalisi.png Graphic file (type png)
 
 <use img_peconomico/oreAnalisi.png>
 Package pdftex.def Info: img_peconomico/oreAnalisi.png used on input line 35.
 (pdftex.def)             Requested size: 577.15483pt x 332.24043pt.
 
-<img_peconomico/costiAnalisi.png, id=421, 571.13374pt x 333.245pt>
+<img_peconomico/costiAnalisi.png, id=432, 571.13374pt x 333.245pt>
 File: img_peconomico/costiAnalisi.png Graphic file (type png)
 
 <use img_peconomico/costiAnalisi.png>
@@ -1879,11 +1869,11 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [14 <./img_peconomico/costiAnalisi.png>]
 \openout2 = `sezione-analisiDeiRischi.aux'.
 
- (./sezione-analisiDeiRischi.tex)
+ (./sezione-analisiDeiRischi.tex
 File: ../../modello/cookie.png Graphic file (type png)
 
 <use ../../modello/cookie.png>
-Package pdftex.def Info: ../../modello/cookie.png used on input line 26.
+Package pdftex.def Info: ../../modello/cookie.png used on input line 32.
 (pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
 
 
@@ -1895,7 +1885,19 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 [15
 
 
-]
+])
+File: ../../modello/cookie.png Graphic file (type png)
+ <use ../../modello/cookie.png>
+Package pdftex.def Info: ../../modello/cookie.png used on input line 26.
+(pdftex.def)             Requested size: 42.48674pt x 42.67642pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (30.0pt): 
+ Make it at least 46.27646pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
 \openout2 = `sezione-controlloERendicontazione.aux'.
 
  (./sezione-controlloERendicontazione.tex)
@@ -1910,7 +1912,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16
+[17
 
 
 ]
@@ -1928,7 +1930,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17
+[18
 
 
 ]
@@ -1946,7 +1948,7 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18
+[19
 
 
 ] 
@@ -1961,13 +1963,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 32.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 32.
 Package rerunfilecheck Info: File `PianoDiProgetto.out' has not changed.
-(rerunfilecheck)             Checksum: A15F66B1950FF7322554A8E90B7AD22E;4179.
+(rerunfilecheck)             Checksum: 317F2C07C5A11CBFD56630C88D077923;4460.
  ) 
 Here is how much of TeX's memory you used:
- 28490 strings out of 495017
- 604434 string characters out of 6181020
- 774849 words of memory out of 5000000
- 30928 multiletter control sequences out of 15000+600000
+ 28517 strings out of 495017
+ 604692 string characters out of 6181020
+ 774858 words of memory out of 5000000
+ 30931 multiletter control sequences out of 15000+600000
  68387 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  65i,16n,74p,809b,933s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1978,10 +1980,10 @@ m/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 i7.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on PianoDiProgetto.pdf (20 pages, 374009 bytes).
+Output written on PianoDiProgetto.pdf (20 pages, 379808 bytes).
 PDF statistics:
- 507 PDF objects out of 1000 (max. 8388607)
- 466 compressed objects within 5 object streams
- 91 named destinations out of 1000 (max. 500000)
- 518 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 549 PDF objects out of 1000 (max. 8388607)
+ 507 compressed objects within 6 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 542 words of extra memory for PDF output out of 10000 (max. 10000000)
 

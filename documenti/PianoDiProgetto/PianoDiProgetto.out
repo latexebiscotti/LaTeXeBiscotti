@@ -46,15 +46,18 @@
 \BOOKMARK [1][-]{section.5}{Analisi dei rischi}{}% 46
 \BOOKMARK [2][-]{subsection.5.1}{Rischi tecnologici}{section.5}% 47
 \BOOKMARK [2][-]{subsection.5.2}{Rischi sul personale}{section.5}% 48
-\BOOKMARK [2][-]{subsection.5.3}{Rischi organizzativi}{section.5}% 49
-\BOOKMARK [2][-]{subsection.5.4}{Rischi sugli strumenti software}{section.5}% 50
-\BOOKMARK [2][-]{subsection.5.5}{Rischi sugli strumenti hardware}{section.5}% 51
-\BOOKMARK [2][-]{subsection.5.6}{Rischi sui requisiti}{section.5}% 52
-\BOOKMARK [2][-]{subsection.5.7}{Rischi sulle stime}{section.5}% 53
-\BOOKMARK [1][-]{section.6}{Meccanismi di Controllo e Rendicontazione}{}% 54
-\BOOKMARK [1][-]{section.7}{Consuntivo a finire}{}% 55
-\BOOKMARK [1][-]{appendix.Alph1}{Organigramma}{}% 56
-\BOOKMARK [2][-]{subsection.Alph1.1}{Redazione}{appendix.Alph1}% 57
-\BOOKMARK [2][-]{subsection.Alph1.2}{Approvazione}{appendix.Alph1}% 58
-\BOOKMARK [2][-]{subsection.Alph1.3}{Accettazione dei componenti}{appendix.Alph1}% 59
-\BOOKMARK [2][-]{subsection.Alph1.4}{Componenti}{appendix.Alph1}% 60
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Indisponibilit\340 dei componenti del gruppo}{subsection.5.2}% 49
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Problemi tra componenti del gruppo}{subsection.5.2}% 50
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Inesperienze del gruppo}{subsection.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.3}{Rischi organizzativi}{section.5}% 52
+\BOOKMARK [2][-]{subsection.5.4}{Rischi sugli strumenti software}{section.5}% 53
+\BOOKMARK [2][-]{subsection.5.5}{Rischi sugli strumenti hardware}{section.5}% 54
+\BOOKMARK [2][-]{subsection.5.6}{Rischi sui requisiti}{section.5}% 55
+\BOOKMARK [2][-]{subsection.5.7}{Rischi sulle stime}{section.5}% 56
+\BOOKMARK [1][-]{section.6}{Meccanismi di Controllo e Rendicontazione}{}% 57
+\BOOKMARK [1][-]{section.7}{Consuntivo a finire}{}% 58
+\BOOKMARK [1][-]{appendix.Alph1}{Organigramma}{}% 59
+\BOOKMARK [2][-]{subsection.Alph1.1}{Redazione}{appendix.Alph1}% 60
+\BOOKMARK [2][-]{subsection.Alph1.2}{Approvazione}{appendix.Alph1}% 61
+\BOOKMARK [2][-]{subsection.Alph1.3}{Accettazione dei componenti}{appendix.Alph1}% 62
+\BOOKMARK [2][-]{subsection.Alph1.4}{Componenti}{appendix.Alph1}% 63
